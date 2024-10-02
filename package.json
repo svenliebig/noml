@@ -1,0 +1,9 @@
+{
+  "name": "noml",
+  "version": "1.0.0",
+  "description": "release the configuraton devouring monster onto your project",
+  "main": "index.js",
+  "bin": "./index.js",
+  "author": "Sven Liebig",
+  "license": "ISC"
+}
